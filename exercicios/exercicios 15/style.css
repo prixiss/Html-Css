@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+body {
+    background-color: lightblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+h1 {
+    color: darkblue;
+    background-color: aquamarine;
+    position:inherit;
+}
+h2 {
+    color: blueviolet;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+p {
+    text-align: justify;
+}
